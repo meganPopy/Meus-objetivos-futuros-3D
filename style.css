@@ -39,7 +39,7 @@ body {
 
 .botao {
     font-family: 'Chakra Petch', sans-serif;
-    //background-color: var(--botao-inativo);
+    background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
     justify-content: center;
@@ -62,7 +62,7 @@ body {
 }
 
 .botao.ativo{
-    background-color: var(--botao-ativo);
+   // background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--verde);
 }
 
